@@ -1,0 +1,7 @@
+2020-05-21 20:18:09.6001 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionReset
+2020-05-21 20:18:10.6284 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2020-05-21 20:18:10.6356 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2020-05-21 21:06:22.8222 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2020-05-21 21:17:53.0230 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2020-05-21 21:26:32.8414 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
+2020-05-21 21:36:02.8886 Error NetworkTarget(Name=logstash): Error when sending. Exception: System.IO.IOException: Error: ConnectionRefused
